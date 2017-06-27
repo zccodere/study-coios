@@ -42,3 +42,12 @@ NSFileManager类应用、文件遍历、NSFileHandle文件读写、Plist文件�
 <p>
 单例设计模式、工厂设计模式、协议、代理设计模式
 </p>
+
+### 2017-2017061202：07-my-uicodebase<br>
+扣丁学堂《用户界面编程之UI编程入门》学习源码
+<p>
+第一个UI程序、视图创建、父子视图、UILabel标签、Frame与bounds的区别、UIButton按钮的使用、
+UIImageView图片组件、事件传递、导航栏控制器的使用、导航栏滚动渐变效果、标签栏控制器的使用、
+滚动视图实现轮播、使用XIB可视化编辑界面
+</p>
+
