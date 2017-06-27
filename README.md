@@ -37,5 +37,8 @@ NSFileManager类应用、文件遍历、NSFileHandle文件读写、Plist文件�
 分类应用、日期类应用、block基础语法、block在类中应用
 </p>
 
-
-
+### 2017-2017061201：06-my-designpattern<br>
+扣丁学堂《Objective-C语言基础之常用设计模式》学习源码
+<p>
+单例设计模式、工厂设计模式、协议、代理设计模式
+</p>
